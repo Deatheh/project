@@ -7,4 +7,4 @@
 - [Ссылка на скринщот с validator.w3](assets/image.jpg)
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://Deatheh.github.io/project)
+- [Публичная страница на GitHub Pages](https://Deatheh.github.io/project/src/index.html)
